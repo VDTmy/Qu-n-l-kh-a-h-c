@@ -102,3 +102,4 @@ app.mount(
     StaticFiles(directory="uploads"),
     name="uploads"
 )
+#khoa hoc on
